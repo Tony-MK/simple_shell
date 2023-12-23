@@ -1,2 +1,5 @@
-# simple_shell
-A Simple Unix Command Interpreter built with the famous C language
+# Simple Shell
+
+Created a simple Unix Command Interpreter.
+
+The shell is for helping me learn the C programming language.
